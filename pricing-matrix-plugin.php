@@ -3,7 +3,7 @@
  * Plugin Name:       Multi-Product Pricing Matrix
  * Description:       Creates manageable, tabbed pricing matrix tables for multiple WooCommerce products using unique shortcodes.
  * Version:           1.1.0 (File-structured)
- * Author:            Your Name
+ * Author:            Hamidinjas
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       mpm-matrix
